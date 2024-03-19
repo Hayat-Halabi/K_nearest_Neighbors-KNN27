@@ -91,3 +91,8 @@ print(classification_report(y_test,pred))
 
 #Observations: In the above output, we can see that we are able to achieve 90% accuracy.
 #For the purchase, we are able to have a precision of 90 and a recall of 87 with an f1-score of 88.
+```
+Downloadable link for dataset above
+```
+https://vocproxy-1-4.us-west-2.vocareum.com/files/home/labsuser/Social_Network_Ads.csv?_xsrf=2%7C14e96c6a%7C3dfda85d4631ab62f4d901a0a6304907%7C1708282987
+```
